@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shaikat Hosen Rony 👋
 
-<!--
-**SHRony/SHRony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI Engineer | Problem Solver | **2X ICPC World Finalist**
 
-Here are some ideas to get you started:
+I'm a problem solver and 2X ICPC World finalist. I've been working as a software engineer since 2024. I've led end to end development of Agentic workflows, RAG pipelines, AI Drafting tools, Agentic Chat and other full-stack features into production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 What I'm working on
+- Working with [Wayside](https://wayside.io) to build AI-native payroll and HR automations for **Professional Employer Organizations (PEOs) in the United States**.
+
+### 📫 Connect
+- Email: [shrony101@gmail.com](mailto:shrony101@gmail.com)
+- GitHub: [@SHRony](https://github.com/SHRony)
+- LinkedIn: [@Shaikat Hosen](https://www.linkedin.com/in/raid3n )
