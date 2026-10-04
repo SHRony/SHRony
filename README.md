@@ -8,7 +8,7 @@ I'm a problem solver and 2X ICPC World finalist. I've been working as a software
 
 ### 🔭 What I'm working on
 - Working with [Wayside](https://wayside.io) to build AI-native payroll and HR automations for **Professional Employer Organizations (PEOs) in the United States**.
-
+- Learning inference on weekends by building an inference engine from scratch [weaver](https://github.com/SHRony/weaver)
 ### 📫 Connect
 - Email: [shrony101@gmail.com](mailto:shrony101@gmail.com)
 - GitHub: [@SHRony](https://github.com/SHRony)
